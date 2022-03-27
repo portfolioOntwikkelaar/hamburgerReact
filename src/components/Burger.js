@@ -22,15 +22,15 @@ export default class Burger extends Component {
         break;
       }
       case 'tomato':{
-        stateVelue = tomato;
+        stateValue = tomato;
         break;
       }
       case 'cheese':{
-        stateVelue = cheese;
+        stateValue = cheese;
         break;
       }
       case 'meat':{
-        stateVelue = meat;
+        stateValue = meat;
         break;
       }
       default: break;
